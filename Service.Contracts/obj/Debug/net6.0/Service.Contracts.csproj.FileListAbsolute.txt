@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\bin\Debug\net6.0\Service.Contracts.deps.json
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\Service.Contracts.dll
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\obj\Debug\net6.0\Service..DEC3DE55.Up2Date
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\bin\Debug\net6.0\Shared.dll
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\bin\Debug\net6.0\Shared.pdb
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\DELL\source\repos\MyRepo\MiniSocialMedia\Service.Contracts\bin\Debug\net6.0\Entities.pdb
